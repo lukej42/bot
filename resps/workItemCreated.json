@@ -1,0 +1,68 @@
+{
+    "id": 33,
+    "rev": 1,
+    "fields": {
+        "System.AreaPath": "knoxgates",
+        "System.TeamProject": "knoxgates",
+        "System.IterationPath": "knoxgates",
+        "System.WorkItemType": "Task",
+        "System.State": "To Do",
+        "System.Reason": "Added to backlog",
+        "System.CreatedDate": "2022-11-29T14:43:44.927Z",
+        "System.CreatedBy": {
+            "displayName": "Knox Hutchinson",
+            "url": "https://spsprodcus5.vssps.visualstudio.com/Aaf80149a-76e5-45fe-8d93-e5dfa7ccc90b/_apis/Identities/6f497594-868d-64ff-a3e9-514f397d751d",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/knoxsdata/_apis/GraphProfile/MemberAvatars/aad.NmY0OTc1OTQtODY4ZC03NGZmLWEzZTktNTE0ZjM5N2Q3NTFk"
+                }
+            },
+            "id": "6f497594-868d-64ff-a3e9-514f397d751d",
+            "uniqueName": "knox@knoxsdata.com",
+            "imageUrl": "https://dev.azure.com/knoxsdata/_apis/GraphProfile/MemberAvatars/aad.NmY0OTc1OTQtODY4ZC03NGZmLWEzZTktNTE0ZjM5N2Q3NTFk",
+            "descriptor": "aad.NmY0OTc1OTQtODY4ZC03NGZmLWEzZTktNTE0ZjM5N2Q3NTFk"
+        },
+        "System.ChangedDate": "2022-11-29T14:43:44.927Z",
+        "System.ChangedBy": {
+            "displayName": "Knox Hutchinson",
+            "url": "https://spsprodcus5.vssps.visualstudio.com/Aaf80149a-76e5-45fe-8d93-e5dfa7ccc90b/_apis/Identities/6f497594-868d-64ff-a3e9-514f397d751d",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/knoxsdata/_apis/GraphProfile/MemberAvatars/aad.NmY0OTc1OTQtODY4ZC03NGZmLWEzZTktNTE0ZjM5N2Q3NTFk"
+                }
+            },
+            "id": "6f497594-868d-64ff-a3e9-514f397d751d",
+            "uniqueName": "knox@knoxsdata.com",
+            "imageUrl": "https://dev.azure.com/knoxsdata/_apis/GraphProfile/MemberAvatars/aad.NmY0OTc1OTQtODY4ZC03NGZmLWEzZTktNTE0ZjM5N2Q3NTFk",
+            "descriptor": "aad.NmY0OTc1OTQtODY4ZC03NGZmLWEzZTktNTE0ZjM5N2Q3NTFk"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "test 123",
+        "Microsoft.VSTS.Common.StateChangeDate": "2022-11-29T14:43:44.927Z",
+        "Microsoft.VSTS.Common.Priority": 2
+    },
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_apis/wit/workItems/33"
+        },
+        "workItemUpdates": {
+            "href": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_apis/wit/workItems/33/updates"
+        },
+        "workItemRevisions": {
+            "href": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_apis/wit/workItems/33/revisions"
+        },
+        "workItemComments": {
+            "href": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_apis/wit/workItems/33/comments"
+        },
+        "html": {
+            "href": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_workitems/edit/33"
+        },
+        "workItemType": {
+            "href": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_apis/wit/workItemTypes/Task"
+        },
+        "fields": {
+            "href": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_apis/wit/fields"
+        }
+    },
+    "url": "https://dev.azure.com/knoxsdata/da981222-0383-4cb0-a677-e8d0ab5ff87f/_apis/wit/workItems/33"
+}
